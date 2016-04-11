@@ -11,7 +11,7 @@ email: itoh@4696.co.jp
 description: > # this means to ignore newlines until "baseurl:"
   伊藤庄平。株式会社シロクロの代表。Webデザイナー。フロントエンドを勉強するブログ。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://itoh.github.io/" # the base hostname & protocol for your site
+url: "http://itoh.github.io" # the base hostname & protocol for your site
 twitter_username: 9d
 github_username:  itoh
 
