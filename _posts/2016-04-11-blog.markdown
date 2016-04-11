@@ -12,7 +12,7 @@ GitHubでリポジトリを作ってひも付けて完了。
 
 次はテーマの適用をしようと思います。
 
-# 参考にしたページ
-[Jekyll + github pages を使って git + markdown でサイト構築](https://jekyllrb.com/ "Jekyll + github pages を使って git + markdown でサイト構築")
-[Jekyll](http://akkunchoi.github.io/jekyll-github-blogging.html "Jekyll")
-[jekyll + GitHub Pagesを使って無料でブログサイトを作る](http://j-caw.co.jp/blog/?p=1615 "jekyll + GitHub Pagesを使って無料でブログサイトを作る")
+## 参考にしたページ
+*[Jekyll + github pages を使って git + markdown でサイト構築](https://jekyllrb.com/ "Jekyll + github pages を使って git + markdown でサイト構築")
+*[Jekyll](http://akkunchoi.github.io/jekyll-github-blogging.html "Jekyll")
+*[jekyll + GitHub Pagesを使って無料でブログサイトを作る](http://j-caw.co.jp/blog/?p=1615 "jekyll + GitHub Pagesを使って無料でブログサイトを作る")
