@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog始めました"
+date:   2016-04-11 15:20:00 +0900
+categories: jekyll update
+---
+フロントエンドをもう一度ちゃんと勉強するために立ち上げたブログ。とりいそぎ、Jekyllではじめてみました。
+
+# 参考にしたページ
+[jekyll + GitHub Pagesを使って無料でブログサイトを作る | もふもふ技術部](http://j-caw.co.jp/blog/?p=1615 "jekyll + GitHub Pagesを使って無料でブログサイトを作る | もふもふ技術部")
