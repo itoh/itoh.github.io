@@ -10,7 +10,6 @@ categories: jekyll
 公式サイトに従ってJekyllをインストールして
 GitHubでリポジトリを作ってひも付けて完了。
 
-次はテーマの適用をしようと思います。
 
 ## 参考にしたページ
 - [Jekyll](https://jekyllrb.com/ "Jekyll")
