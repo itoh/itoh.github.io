@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# 私とhtml
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+大学を卒業してデザイン事務所に入った2000年からWeb制作を始めました。名前は忘れましたが、最初に使ったWYSIWYGエディタがhtml3.2を書き出していた頃です。それから手打ちに移行して、tableレイアウトで冗長だけど無駄のないhtmlをかいて、Netscape Communicator 4.7で問題なく表示させることが矜持でした。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+2004年頃にcssレイアウトへ移行。仕事でcssレイアウトを取り入れたのは比較的早かったと思います。しばらくはhtmlが楽しかったけれど、2007年頃から徐々に遠ざかり、デザインとディレクションが本業になっていきました。html5/css3まではよくても、今日日のフロントエンド事情をぼんやりとした知識だけでしか把握できていないので、最低限触れるようになっておこうと思ったのがこのブログを立ち上げた理由です。よろしくお願いいたします。
+
+- [Twitter](https://twitter.com/9d "Twitter")
+- [株式会社シロクロ](http://www.4696.co.jp/ "株式会社シロクロ")
