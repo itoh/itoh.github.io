@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Rubyのバージョンが違う時の対処"
+date:   2016-04-26 16:00:00 +0900
+categories: Ruby,Rails
+---
+Railsアプリをクローンして動作させようとすると、  
+`Your Ruby version is 2.3.0, but your Gemfile specified 2.2.3`  
+というエラーがでた。  
+2.2.3が必要いうことで、インストールしてバージョンを指定する。
+
+
+
+`rbenv install 2.2.3` 2.2.3 をインストールして、  
+
+`rbenv local 2.2.3` ディレクトリレベルでバージョンを指定。  
+
+これでOK。
