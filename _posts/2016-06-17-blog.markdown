@@ -6,7 +6,7 @@ categories: Mac
 ---
 OS を El Capitan にしてから、プレビューで文字が滲むようになってしまった。  
 プレビューのバージョンは 8.1(877.7)。  
-IllustratorでもKeynoteで書き出したpdfでも同じ症状だったので、プレビューの問題のよう。
+IllustratorやKeynoteで書き出したpdfでも同じ症状だったので、プレビューの問題のよう。
 
 ![プレビューの環境設定](/images/1.png)
 
